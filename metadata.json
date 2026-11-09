@@ -1,0 +1,6 @@
+{
+  "name": "AlphaForge: Quant Trading Research & Paper Trading Terminal",
+  "description": "Python-powered quantitative trading research dashboard, strategy backtester, and Alpaca/Yahoo Finance paper trading engine with dynamic Plotly charts and live bot telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
